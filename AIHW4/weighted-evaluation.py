@@ -1,3 +1,6 @@
+### Sarah Groark - AI Assignment 4
+
+
 #######################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
